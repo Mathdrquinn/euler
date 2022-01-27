@@ -5,7 +5,7 @@
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "one": "tsc"
+    "one": "tsc && node ./problem_1.js"
   },
   "repository": {
     "type": "git",

@@ -8,4 +8,6 @@ const multiplesOf3_5 = (limit: number) => {
   return multiples;
 };
 
-console.log(multiplesOf3_5(16));
+const sum = (a: number, b: number) => a + b;
+
+console.log(multiplesOf3_5(1000).reduce(sum, 0));
