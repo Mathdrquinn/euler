@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mathdrquinn/euler/issues"
   },
-  "homepage": "https://github.com/Mathdrquinn/euler#readme"
+  "homepage": "https://github.com/Mathdrquinn/euler#readme",
+  "dependencies": {
+    "typescript": "^4.5.5"
+  }
 }
